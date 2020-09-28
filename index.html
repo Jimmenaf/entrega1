@@ -1,0 +1,51 @@
+<html>
+<link rel="stylesheet" type="text/css" href="clas.css">
+
+</style>
+
+<body background="fondo.jpg">
+
+<p class="v"> Sonidos y Ritmos </p>
+<p class="mi">Volumen <br> todos</p>
+
+<audio  id="j1"  src="grillo.mp3" autoplay preload></audio>
+
+<audio  id="j2"  src="ave.mp3" autoplay preload></audio>
+
+<audio  id="j3"  src="piano.mp3" autoplay preload></audio>
+
+<audio  id="j4"  src="violin.mp3" autoplay preload></audio>
+
+<audio  id="j5"  src="tamb.mp3" autoplay preload></audio>
+
+<div>
+    <button onclick="document.getElementById('j1').play()" class="s"><span>sonido de grillos </button>
+    <button onclick="document.getElementById('j1').pause()" class="the">Pausa</button>
+</div>
+<div>
+    <button onclick="document.getElementById('j2').play()" class="e">sonido de ave</button>
+    <button onclick="document.getElementById('j2').pause()" class="fre">Pausa</button>
+</div>
+<div>
+    <button onclick="document.getElementById('j3').play()" class="b">piano</button>
+    <button onclick="document.getElementById('j3').pause()" class="pff">Pausa</button>
+</div>
+<div>
+    <button onclick="document.getElementById('j4').play()" class="a">violin</button>
+    <button onclick="document.getElementById('j4').pause()" class="pld">Pausa</button>
+</div>
+<div>
+    <button onclick="document.getElementById('j5').play()" class="me">tambor</button>
+    <button onclick="document.getElementById('j5').pause()" class="men">Pausa</button>
+</div>
+
+
+<div>
+    <button onclick="document.getElementById('j5').volume += .1;document.getElementById('j4').volume += .1;document.getElementById('j3').volume += .1;document.getElementById('j2').volume += .1;document.getElementById('j1').volume += .1" class="sa">Subir</button>
+    <button onclick="document.getElementById('j5').volume -= .1;document.getElementById('j4').volume -= .1;document.getElementById('j3').volume -= .1;document.getElementById('j2').volume -= .1;document.getElementById('j1').volume -= .1" class="ok">Bajar</button>
+</div>
+
+</body>
+
+</html>
+

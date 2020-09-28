@@ -1,0 +1,276 @@
+.v{
+    position: absolute;
+    top: 20%;
+    left: 48%;
+    font-size: 63px;
+    color: #A85DB5;
+   
+    }
+.mi{
+    position: absolute;
+    top: 31%;
+    left: 5%;
+    font-size: 25px;
+    color: #A85DB5;
+    font-family: DJB Letter Game Tiles;
+    }
+.s {
+    background-color: #9DC9CA;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 4%;
+    top: 68%;
+    border-radius: 70px;
+    color: #17202A;
+}
+
+.s:hover {
+background-color:#A3E8CC;
+color: #A85DB5;
+}
+
+.e {
+    background-color: #9DC9CA;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 76%;
+    top: 70%;
+    border-radius: 40px;
+    color: #17202A;
+}
+
+.e:hover {
+background-color:#A3E8CC;
+color: #17202A;
+}
+
+.b {
+    background-color: #9DC9CA;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 28%;
+    top: 70%;
+    border-radius: 40px;
+    color: #17202A;
+}
+
+.b:hover {
+background-color:#A3E8CC;
+color: #17202A;
+}
+
+.a{
+    background-color: #9DC9CA;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 42%;
+    top: 70%;
+    border-radius: 40px;
+    color: #17202A;
+}
+
+.a:hover {
+background-color:#A3E8CC;
+color: #17202A;
+}
+
+.me {
+    background-color: #9DC9CA;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 60%;
+    top: 70%;
+    border-radius: 40px;
+    color: #17202A;
+}
+
+.me:hover {
+background-color:#A3E8CC;
+color: #17202A;
+}
+
+
+.the {
+    background-color: #9DC9CA;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 8%;
+    top: 80%;
+    border-radius: 70px;
+    color: black;
+}
+.the:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+
+.fre {
+    background-color: #9DC9CA;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 27%;
+    top: 80%;
+    border-radius: 40px;
+    color: black;
+}
+.fre:hover {
+background-color:#A3E8CC;
+color: #17202A;
+}
+
+
+.pff {
+    background-color: #9DC9CA;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 43%;
+    top: 80%;
+    border-radius: 40px;
+    color: black;
+}
+.pff:hover {
+background-color:#A3E8CC;
+color: #17202A;
+}
+
+.pld {
+    background-color: #9DC9CA;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 62%;
+    top: 80%;
+    border-radius: 40px;
+    color: black;
+}
+.pld:hover {
+background-color:#A3E8CC;
+color: #17202A;
+}
+
+
+.men{
+    background-color:#9DC9CA;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 80%;
+    top: 80%;
+    border-radius: 40px;
+    color: black;
+}
+.men:hover {
+background-color:#A3E8CC;
+color: #17202A;
+}
+
+.sa {
+    background-color: #9DC9CA;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    border-radius: 40px;
+    color: black;
+}
+.sa:hover {
+background-color:#FDFEFE;
+color: #9DB3CA;
+}
+
+.ok {
+    background-color:#9DC9CA;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    border-radius: 40px;
+    color: black;
+}
+.ok:hover {
+background-color:#FDFEFE;
+color: #9DB3CA;
+}
